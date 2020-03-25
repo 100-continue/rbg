@@ -7,3 +7,5 @@ Save butterfly images.
 - #3
   - #1  
   Compare blue butterfly with pink butterfly.
+  - #2  
+  Compare blue butterfly with black butterfly.
